@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000195415513",
+    "project_id": "sobrasphere-db",
+    "storage_bucket": "sobrasphere-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000195415513:android:1375ae4f1ffb58783d4dc8",
+        "android_client_info": {
+          "package_name": "com.mycompany.sobrasphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYM-fHjE9a5QrYqTSPhO9wdENJLPp7EHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

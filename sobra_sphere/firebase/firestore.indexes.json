@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "availableBags",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "name",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "quantity",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
